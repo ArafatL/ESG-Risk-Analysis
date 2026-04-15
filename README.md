@@ -1,4 +1,4 @@
-# ESG Risk Analysis — S&P 500
+# ESG Risk Analysis - S&P 500
 
 ## Problem
 Predict and classify ESG risk levels (Negligible / Low / Medium / High / Severe) for 503 S&P 500 companies across 11 sectors and 108 industries.
